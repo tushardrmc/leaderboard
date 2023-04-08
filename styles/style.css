@@ -1,5 +1,13 @@
 body{
     background-color: #F3F1FF;
+    font-family: 'Poppins';
+}
+.nav-content{
+    max-width: 900px;
+}
+.nav-content h4{
+    display: inline;
+    padding-left: 10px;
 }
 main{
     max-width: 870px;
@@ -8,9 +16,29 @@ main{
     background-color: white;
     border-radius: 5px;
 }
+.top-player h4{
+    color: #0275d8;
+}
+.player p{
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 27px;
+}
 .navbar img{
     width: 40px;
 }
 .player img{
     width: 56px;
+}
+.top-blogs img{
+    width: 177px;
+    height: 117px;
+}
+.blog-name{
+    font-size: 18px;
+    font-weight: 600;
+}
+.author{
+    font-size: 16px;
+    font-weight: 400;
 }
