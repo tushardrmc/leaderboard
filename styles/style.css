@@ -34,11 +34,42 @@ h4{
     width: 177px;
     height: 117px;
 }
-.blog-name{
+.blog-name {
+    font-size: 18px;
+    font-weight: 600;
+}
+.course-name{
     font-size: 18px;
     font-weight: 600;
 }
 .author{
     font-size: 16px;
     font-weight: 400;
+}
+.course-author{
+    font-size: 15px;
+    font-weight: 400;
+    color: red;
+}
+.stars img{
+    width: 14px;
+    height: 12px;
+}
+.duration img{
+    width: 20px;
+    height: 20px;
+}
+.duration p{
+    display: inline;
+    color: red;
+}
+.duration{
+    background-color: #FFE4E8;
+    border-radius: 15px;
+    padding: 2px 10px;
+}
+.stars p{
+    display: inline;
+    font-size: 14px;
+    color: #A2A2A2;
 }
