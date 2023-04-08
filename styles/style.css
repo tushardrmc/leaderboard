@@ -8,6 +8,7 @@ body{
 .nav-content h5{
     display: inline;
     padding-left: 10px;
+    font-weight: 700;
 }
 main{
     max-width: 870px;
@@ -72,4 +73,8 @@ h4{
     display: inline;
     font-size: 14px;
     color: #A2A2A2;
+}
+.card{
+    border-color:white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
